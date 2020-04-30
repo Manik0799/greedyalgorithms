@@ -1,0 +1,176 @@
+html ,body{
+    width: 100%;
+    height: 100%;
+    font-family: 'Nanum Gothic', sans-serif;
+
+
+}
+
+header{
+  background-color: #263145;
+  height: 60px;
+}
+header p {
+  font-size: 30px;
+  margin-left: 10px;
+  color: whitesmoke;
+  font-family: 'Noto Sans JP', sans-serif;
+  text-decoration: none !important;
+  padding-top: 5px;
+}
+
+/* .tabs .btn {
+  float: right;
+  background-color: #263145;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.tabs{
+  text-align: center;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* Styling of Home Page */
+#intro-section{
+  margin-top: 20px;
+  padding-bottom: 10px;
+}
+
+
+
+/* Card Styling starts */
+
+/* #mycard .card{
+  width : 35rem;
+  height: 25rem;
+  margin : 0 auto;
+  background-color: #f6376d ;
+  border-radius: 10px;
+} */
+#mycard .card-body{
+  color: white;
+  padding : 8px;
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+}
+#mycard .card-title{
+  font-size: 30px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid white;
+  font-family: 'Noto Sans JP', sans-serif;
+}
+#mycard .card-text{
+  font-family: 'Nanum Gothic', sans-serif;
+  font-size: 16px;
+}
+
+/* #mycard .btn{
+  background-color: #263145 ;
+  border-radius: 10px;
+  border: none;
+} */
+/* Card styling ends */
+
+/* Home Page Styling ends */
+
+
+
+
+
+
+/* Common Pages Styling */
+.problem-heading{
+  font-weight: 600;
+  font-family: 'Noto Sans JP', sans-serif;
+  margin-top: 2.5rem;
+  border-bottom: 2px solid black;
+}
+
+.problem-desc{
+  font-size: 18px;
+  margin-top: 18px;
+  font-family: 'Nanum Gothic', sans-serif;
+}
+
+input{
+  border-radius: 8px;
+  height: 40px;
+  border: 1px solid black;
+  padding: 8px;
+}
+
+/* Knapsack and Task Scheduling  Styling */
+.form .inputs{
+  margin-top: 20px;
+}
+
+.form .addbtn{
+  background-color: #263145;
+  margin-top: 15px;
+}
+
+.form .removebtn{
+  margin-left: 5px;
+  background-color: #f6376d;
+  margin-top: 3px;
+}
+#knapsacksolution h2{
+  font-family: 'Noto Sans JP', sans-serif;
+
+}
+#knapsacksolution h3{
+  font-family: 'Noto Sans JP', sans-serif;
+  
+}
+
+/*  */
+.canvas{
+  width: 100%;
+  height: 400px;
+}
+
+/* Huffmann */
+.gettext{
+  margin-top: 10px;
+}
+.gettext textarea{
+  border-radius: 10px;
+  margin-top: 10px;
+}
+
+/* Dijkstra */
+.form .getInputs{
+  background-color: #263145;
+  margin-left: 10px;
+}
+
+.cell{
+  width: 50px;
+  margin-top: 5px;
+  margin-left: 2px;
+}
+
+.getSolution{
+  background-color: #263145;
+  margin-top: 10px;
+}

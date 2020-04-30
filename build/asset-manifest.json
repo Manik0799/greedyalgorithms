@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/greedyProject/static/js/main.01b26623.chunk.js",
+    "main.js.map": "/greedyProject/static/js/main.01b26623.chunk.js.map",
+    "runtime-main.js": "/greedyProject/static/js/runtime-main.925646cc.js",
+    "runtime-main.js.map": "/greedyProject/static/js/runtime-main.925646cc.js.map",
+    "static/js/2.f93b41f9.chunk.js": "/greedyProject/static/js/2.f93b41f9.chunk.js",
+    "static/js/2.f93b41f9.chunk.js.map": "/greedyProject/static/js/2.f93b41f9.chunk.js.map",
+    "index.html": "/greedyProject/index.html",
+    "precache-manifest.bdd2c233a6a06ea9ffbca771b81bc106.js": "/greedyProject/precache-manifest.bdd2c233a6a06ea9ffbca771b81bc106.js",
+    "service-worker.js": "/greedyProject/service-worker.js",
+    "static/js/2.f93b41f9.chunk.js.LICENSE.txt": "/greedyProject/static/js/2.f93b41f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.925646cc.js",
+    "static/js/2.f93b41f9.chunk.js",
+    "static/js/main.01b26623.chunk.js"
+  ]
+}
